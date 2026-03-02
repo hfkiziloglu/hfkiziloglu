@@ -6,7 +6,7 @@ Ankara Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Her
 
 ### 🚀 Nelerle Uğraşıyorum?
 
-* **Finansal Analiz & Algoritmik Ticaret:** Python ile piyasa verilerini analiz ediyor, stratejilerimi backtest sistemleri üzerinden optimize ediyorum.
+* **Finansal Analiz & Algoritmik Trading:** Python ile piyasa verilerini analiz ediyor, stratejilerimi backtest sistemleri üzerinden optimize ediyorum.
 * **Mobil Geliştirme:** React Native ve Expo kullanarak kullanıcı odaklı mobil uygulamalar geliştiriyorum.
 * **Yapay Zeka Uygulamaları:** LLM'lerin teknik sınırlarını zorlamayı, ComfyUI ve modern AI araçlarıyla iş akışlarımı otomatize etmeyi seviyorum.
 
@@ -17,7 +17,7 @@ Ankara Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Her
 | **Diller** | Python, JavaScript (ES6+), C, C++, SQL |
 | **Mobil / Frontend** | React Native, Expo, UI/UX Tasarım Prensipleri |
 | **Veritabanı / Backend** | Supabase, PostgreSQL, SQLite |
-| **Veri Analizi** | Pandas, NumPy, Matplotlib, Backtrader |
+| **Veri Analizi** | Pandas, NumPy, Matplotlib |
 | **Mühendislik Araçları** | Git, Docker, VS Code, Arduino, n8n |
 
 ---
