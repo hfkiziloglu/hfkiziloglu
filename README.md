@@ -1,0 +1,28 @@
+# Selam, ben Furkan! 👋
+
+Ankara Üniversitesi'nde **Yazılım Mühendisliği** 3. sınıf öğrencisiyim. Teorik mühendislik bilgisini, finansal verilerle ve mobil çözümlerle birleştiren bir geliştiriciyim.
+
+---
+
+### 🚀 Nelerle Uğraşıyorum?
+
+* **Finansal Analiz & Algoritmik Ticaret:** Python, Pandas ve `backtrader` kütüphanelerini kullanarak piyasa verilerini analiz ediyor, stratejilerimi backtest sistemleri üzerinden optimize ediyorum.
+* **Mobil Geliştirme:** React Native ve Expo kullanarak kullanıcı odaklı mobil uygulamalar geliştiriyorum. (Backend tarafında Supabase ve Firebase tercih ediyorum.)
+* **Yapay Zeka Uygulamaları:** LLM'lerin teknik sınırlarını zorlamayı, ComfyUI ve modern AI araçlarıyla iş akışlarımı otomatize etmeyi seviyorum.
+
+### 🛠️ Yetkinliklerim (Tech Stack)
+
+| Alan | Araçlar |
+| :--- | :--- |
+| **Diller** | Python, JavaScript (ES6+), SQL |
+| **Mobil / Frontend** | React Native, Expo, UI/UX Tasarım Prensipleri |
+| **Veritabanı / Backend** | Supabase, PostgreSQL, Firebase |
+| **Veri Analizi** | Pandas, NumPy, Matplotlib, Backtrader |
+| **Mühendislik Araçları** | Git, Docker, VS Code, Arduino, LabVIEW |
+
+---
+
+### 📫 İletişim
+
+* **LinkedIn:** [linkedin.com/in/hfkiziloglu](https://linkedin.com/in/hfkiziloglu)
+* **Konum:** Ankara, Türkiye
