@@ -14,7 +14,7 @@ Ankara Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Her
 
 | Alan | Araçlar |
 | :--- | :--- |
-| **Diller** | Python, JavaScript (ES6+), SQL |
+| **Diller** | Python, JavaScript (ES6+), C, C++, SQL |
 | **Mobil / Frontend** | React Native, Expo, UI/UX Tasarım Prensipleri |
 | **Veritabanı / Backend** | Supabase, PostgreSQL, SQLite |
 | **Veri Analizi** | Pandas, NumPy, Matplotlib, Backtrader |
