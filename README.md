@@ -10,7 +10,7 @@ Ankara Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Her
 * **Mobil Geliştirme:** React Native ve Expo kullanarak kullanıcı odaklı mobil uygulamalar geliştiriyorum.
 * **Yapay Zeka Uygulamaları:** LLM'lerin teknik sınırlarını zorlamayı, ComfyUI ve modern AI araçlarıyla iş akışlarımı otomatize etmeyi seviyorum.
 
-### 🛠️ Yetkinliklerim (Tech Stack)
+### 🛠️ Tech Stack
 
 | Alan | Araçlar |
 | :--- | :--- |
